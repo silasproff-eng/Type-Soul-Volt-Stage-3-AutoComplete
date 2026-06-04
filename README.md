@@ -55,15 +55,15 @@ https://www.autohotkey.com/
 
 ---
 
-## Setup Instructions
+# Setup Instructions
 
-### Step 1: Install AutoHotkey
+## Step 1: Install AutoHotkey
 
 Download and install **AutoHotkey v1.1** from the official website.
 
 ---
 
-### Step 2: Download the Macro
+## Step 2: Download the Macro
 
 Download and open the script here:
 
@@ -71,7 +71,7 @@ Download and open the script here:
 
 ---
 
-### Step 3: Go to Wandenreich
+## Step 3: Go to Wandenreich
 
 Join **Wandenreich** and travel to the **Balance NPC** at the **Sibern**.
 
@@ -89,7 +89,7 @@ You can teleport to the Sibern by:
 
 ---
 
-### Step 4: Set Roblox Content Maturity to Minimal
+## Step 4: Set Roblox Content Maturity to Minimal
 
 After joining the server:
 
@@ -102,7 +102,7 @@ This helps prevent joining other servers while the macro is running.
 
 ---
 
-### Step 5: Talk to the Balance NPC
+## Step 5: Talk to the Balance NPC
 
 Talk to the **Balance NPC**.
 
@@ -116,7 +116,7 @@ Leave the screen ready for the macro.
 
 ---
 
-### Step 6: Put Roblox in Windowed Mode
+## Step 6: Put Roblox in Windowed Mode
 
 Make sure Roblox is in **windowed mode**.
 
@@ -126,7 +126,78 @@ You should see the white Windows title bar at the top with:
 - Maximize
 - Exit
 
-If Roblox is fullscreen, press:
+If Roblox is fullscreen, press **F11**.
 
-```txt
-F11
+---
+
+## Step 7: Start the Macro
+
+Press **F6** to start the macro.
+
+The macro will run automatically.
+
+Wait about **1 minute and 35 seconds**.
+
+When it finishes, the script will make a **beep**.
+
+---
+
+## Step 8: Finish the Quest
+
+After the beep:
+
+1. Click **OK**
+2. Talk to **Yhwach**
+3. You should now have **Voltstanding**
+
+---
+
+# Hotkeys
+
+| Key | Action |
+|---|---|
+| **F6** | Start the macro |
+| **F7** | Emergency stop / release mouse buttons |
+
+---
+
+# Notes
+
+- Roblox must be in **windowed mode**
+- The script is made for **AutoHotkey v1.1**
+- Do **not** use AutoHotkey v2 unless the script is rewritten for v2
+- If the macro misses a button, your screen size or Roblox window position may be different
+- The macro works by clicking preset screen coordinates
+
+---
+
+# Troubleshooting
+
+## The macro clicks the wrong spot
+
+Your Roblox window may not match the intended screen layout.
+
+Make sure:
+
+- Roblox is windowed
+- Your screen is close to **1920×1080**
+- The window is positioned the same way as shown in the tutorial
+
+---
+
+## The macro does not start
+
+Make sure:
+
+- AutoHotkey v1.1 is installed
+- The script file opens with ahk not notepad
+- You are pressing **F6**
+- Roblox is open
+
+---
+
+## The mouse gets stuck holding click
+
+Press **F7**.
+
+This releases the mouse buttons and stops the hold.
