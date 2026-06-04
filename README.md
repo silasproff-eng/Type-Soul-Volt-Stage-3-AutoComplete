@@ -67,7 +67,7 @@ Download and install **AutoHotkey v1.1** from the official website.
 
 Download and open the script here:
 
-`[link to script]`
+[Download VoltV2.ahk](./VoltV2.ahk)
 
 ---
 
