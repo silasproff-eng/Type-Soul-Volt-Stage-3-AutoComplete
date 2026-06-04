@@ -4,7 +4,7 @@ An **AutoHotkey v1.1 macro** that automatically completes the **Voltstanding / V
 
 Follow the YouTube tutorial, or use the written steps below.
 
-> **Important:** This is a macro, not an exploit script. Use at your own risk. I cannot guarantee that any macro is undetectable or safe from moderation.
+> **Important:** This is a macro, not an exploit script. this is not detectable by type soul devs and could get you banned if you post this wiht your username
 
 ---
 
