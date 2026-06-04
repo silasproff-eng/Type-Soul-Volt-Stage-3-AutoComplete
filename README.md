@@ -1,15 +1,132 @@
+# Volt Stage 3 AutoHotkey Macro
 
-This is an autohotkey script that will automatically complete your Volt stage 3 quest by using autohotkey V1
-Follow the youtube tutorial or follow the steps described.
-It is not a script only a macro and this is not detectable or bannable  as long as you dont post to the devs you did this
-WINDOWS 11 ONLY (might be possible on windows 10 not tested yet)
-{insert youtube link}
-pre requisites ensure you have completed both stages 1 and 2 of your voltstandiig quest
-Step1: install the software AuoHotkey from the official website and ensure you install version 1.1 as that is the only version this macro can use. This is a trusted software and can be found at https://www.autohotkey.com/
-Step 2: download and open [link to script]
-Step 3: join wandenreich and travel to the balance NPC at the sibern ( Balance NPCcan be tracked by pressing comma in wandenreich city and looking for where it says balance and also the sibern can be teleported to by pressing L and selecting sibern from the teleport wheel)
-Step 4: open your browser or the roblox app on your phone click settings content maturity and set to minimal (make sure done after joining this makes it so you cannot join other servers when youre in one helping with an immortality glitch)
-Step 5: Talk to balance npc DO NOT SAY ANYTHING TO HIM click the return to main menu button DO NOT HIT ACCEPT
-Step 6: make sure roblox is in windowed mode with the white bar at top with minimize maximize and exit if not press f11
-Step 7: Press f6 to start the script you will have to wait 1 minute and 35 sceonds which after the script will make a beep
-Step 8: Click ok talk to ywach AND YOU HAVE VOLTSTANDIIG
+An **AutoHotkey v1.1 macro** that automatically completes the **Voltstanding / Volt Stage 3 quest** sequence.
+
+Follow the YouTube tutorial, or use the written steps below.
+
+> **Important:** This is a macro, not an exploit script. Use at your own risk. I cannot guarantee that any macro is undetectable or safe from moderation.
+
+---
+
+## Compatibility
+
+### ✅ Tested
+
+- **Windows 11**
+- **AutoHotkey v1.1**
+- Roblox in **windowed mode**
+
+### ⚠️ Not Yet Tested
+
+- Windows 10
+- AutoHotkey v2
+- Non-1920×1080 screen layouts
+- Fullscreen Roblox
+
+---
+
+## YouTube Tutorial
+
+**Tutorial link:**  
+`{insert youtube link}`
+
+---
+
+## Prerequisites
+
+Before using this macro, make sure you have:
+
+- Completed **Voltstanding Stage 1**
+- Completed **Voltstanding Stage 2**
+- Reached the **Volt Stage 3 quest**
+- Installed **AutoHotkey v1.1**
+- Roblox running in **windowed mode**
+
+---
+
+## Download AutoHotkey
+
+Install **AutoHotkey v1.1** from the official website:
+
+https://www.autohotkey.com/
+
+> Make sure you install **version 1.1**, not v2.  
+> This macro is made for **AutoHotkey v1.1 only**.
+
+---
+
+## Setup Instructions
+
+### Step 1: Install AutoHotkey
+
+Download and install **AutoHotkey v1.1** from the official website.
+
+---
+
+### Step 2: Download the Macro
+
+Download and open the script here:
+
+`[link to script]`
+
+---
+
+### Step 3: Go to Wandenreich
+
+Join **Wandenreich** and travel to the **Balance NPC** at the **Sibern**.
+
+You can track the Balance NPC by:
+
+1. Pressing **Comma**
+2. Looking for **Balance**
+3. Traveling toward the marker
+
+You can teleport to the Sibern by:
+
+1. Pressing **L**
+2. Opening the teleport wheel
+3. Selecting **Sibern**
+
+---
+
+### Step 4: Set Roblox Content Maturity to Minimal
+
+After joining the server:
+
+1. Open your browser or the Roblox mobile app
+2. Go to **Settings**
+3. Go to **Content Maturity**
+4. Set it to **Minimal**
+
+This helps prevent joining other servers while the macro is running.
+
+---
+
+### Step 5: Talk to the Balance NPC
+
+Talk to the **Balance NPC**.
+
+When the dialogue opens:
+
+- **Do not click any dialogue option yet**
+- Click **Return to Main Menu**
+- **Do not click Accept**
+
+Leave the screen ready for the macro.
+
+---
+
+### Step 6: Put Roblox in Windowed Mode
+
+Make sure Roblox is in **windowed mode**.
+
+You should see the white Windows title bar at the top with:
+
+- Minimize
+- Maximize
+- Exit
+
+If Roblox is fullscreen, press:
+
+```txt
+F11
