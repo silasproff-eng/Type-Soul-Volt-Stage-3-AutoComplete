@@ -4,7 +4,7 @@ An **AutoHotkey v1.1 macro** that automatically completes the **Voltstanding / V
 
 Follow the YouTube tutorial, or use the written steps below.
 
-> **Important:** This is a macro, not an exploit script. this is not detectable by type soul devs and could get you banned if you post this wiht your username
+> **Important:** This is a macro, not an exploit script. this is not detectable by type soul devs and could get you banned if you post this with your username
 
 ---
 
@@ -27,11 +27,10 @@ Follow the YouTube tutorial, or use the written steps below.
 
 ## YouTube Tutorial
 
-**Tutorial link:**  
-`{insert youtube link}`
+[![Watch the Volt Stage 3 tutorial](https://img.youtube.com/vi/7W4BzVIts-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=7W4BzVIts-E)
 
 ---
-
+credits to clarence agbanlog for filming the gameplay part
 ## Prerequisites
 
 Before using this macro, make sure you have:
