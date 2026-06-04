@@ -28,7 +28,7 @@ Follow the YouTube tutorial, or use the written steps below.
 ## YouTube Tutorial
 
 [![Watch the Volt Stage 3 tutorial](https://img.youtube.com/vi/7W4BzVIts-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=7W4BzVIts-E)
-
+## MAKE SURE TO READ DESCRIPTION OF VIDEO IF USING THAT TUTORIAL
 ---
 credits to clarence agbanlog for filming the gameplay part
 ## Prerequisites
